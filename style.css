@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+}
+/* ini navbar */
+.background-navy {
+    background-color: #1f2937;
+    color: #F9FAF8;
+}
+.header-logo {
+    font-size: 24px;
+    
+}
+.link1 {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+/* ini bawahnya navbar */
+.div1 {
+    background-color: #1f2937;
+}
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+.hero-secondary {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+/* ini div buat informasi sama call-to-action button*/
+div {
+    background-color: white;
+}
+/* ini quote */
+.div3 {
+    background-color: #e5e7eb;
+}
