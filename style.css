@@ -49,6 +49,9 @@
 div {
     background-color: white;
 }
+.information {
+    height: 300px;
+}
 /* ini quote */
 .div3 {
     background-color: #e5e7eb;
@@ -88,5 +91,29 @@ nav {
 }
 .img1 {
     padding-right: 100px;
-    border-radius: 5px;
+    border-radius: 15px;
+    width: 800px;
+}
+.container2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 45px;
+}
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+.icon {
+    max-width: 200px;
+}
+img {
+    width: 100px;
+}
+.text {
+    text-align: center;
+    padding-top: 20px;
+    width: 100px;
 }
