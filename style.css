@@ -90,9 +90,9 @@ nav {
     gap: 10px; 
 }
 .img1 {
-    padding-right: 100px;
+    margin-right: 100px;
     border-radius: 15px;
-    width: 800px;
+    width: 600px;
 }
 .container2 {
     display: flex;
