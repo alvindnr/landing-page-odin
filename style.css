@@ -36,6 +36,15 @@
     font-size: 18px;
     color: #e5e7eb;
 }
+.button1 {
+    width: 100px;
+    height: 30px;
+    background-color: #3882f6;
+    border: solid #3882f6 ;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
 /* ini div buat informasi sama call-to-action button*/
 div {
     background-color: white;
@@ -56,18 +65,28 @@ nav {
     display: flex;
     gap: 1rem;
     align-items: center;
-    padding-right: 1rem;
+    padding-right: 100px;
 }
 .header-logo {
     display: flex;
     align-items: center;
-    padding-left: 1rem;
+    padding-left: 100px;
+}
+.div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
 }
 .container1 {
     display: flex;
-    flex-direction: row;
-    padding-left: 1rem;
-    justify-content: space-between;
-    gap: 8px;
-
+    flex-direction: column;
+    padding-left: 100px;
+    justify-content: center;
+    background-color: #1f2937;
+    gap: 10px; 
+}
+.img1 {
+    padding-right: 100px;
+    border-radius: 5px;
 }
