@@ -17,8 +17,14 @@
     font-size: 18px;
     color: #e5e7eb;
     list-style: none;
+    text-decoration: none; 
+}
+.link a {
     text-decoration: none;
-    
+    color: #e5e7eb;
+}
+.link a:hover {
+    text-decoration: underline;
 }
 /* ini bawahnya navbar */
 .div1 {
