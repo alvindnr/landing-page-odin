@@ -55,6 +55,13 @@
     background-color: #e5e7eb;
 }
 
+/* ini footer */
+footer  {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* flex boxxx */
 nav {
     display: flex;
