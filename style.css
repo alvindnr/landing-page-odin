@@ -46,11 +46,9 @@
     font-weight: bold;
 }
 /* ini div buat informasi sama call-to-action button*/
-div {
-    background-color: white;
-}
+
 .information {
-    height: 300px;
+    height: 400px;
 }
 /* ini quote */
 .div3 {
@@ -111,10 +109,34 @@ nav {
 }
 img {
     width: 100px;
+    padding-top: 30px;
 }
 .text {
     text-align: center;
     padding-top: 20px;
     width: 100px;
     color: grey;
+}
+.div3 {
+    width: auto;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+    width: 450px;
+}
+
+.author {
+    font-weight: bold;
+    padding-top: 20px;
+    display: flex;
+    justify-content: flex-end;
 }
